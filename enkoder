@@ -1,3 +1,8 @@
+//tim2 enkoder
+//tim 1 pwm 
+//tim7 0.5s
+
+
 #include "stm32f3xx.h"                  // Device header
 
 uint16_t stan=0;
